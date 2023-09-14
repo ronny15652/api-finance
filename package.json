@@ -32,6 +32,11 @@
     "typeorm": "^0.3.17"
   },
   "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.19",
+    "@babel/node": "^7.22.19",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.22.15",
     "@nestjs/cli": "^10.0.0",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
