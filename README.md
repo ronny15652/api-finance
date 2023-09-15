@@ -1,4 +1,4 @@
-#Projeto Backend de Gestão Financeira em Nest.js#
+Projeto Backend de Gestão Financeira em Nest.js
 Bem-vindo ao projeto do backend de nossa aplicação de gestão financeira em Nest.js! Este repositório é dedicado à parte de backend, que alimenta a lógica e os dados por trás de nossa aplicação. Seja bem-vindo à nossa jornada de aprendizado e desenvolvimento.
 
 Visão Geral do Projeto
