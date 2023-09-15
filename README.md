@@ -1,73 +1,20 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+#Projeto Backend de Gestão Financeira em Nest.js
+Bem-vindo ao projeto do backend de nossa aplicação de gestão financeira em Nest.js! Este repositório é dedicado à parte de backend, que alimenta a lógica e os dados por trás de nossa aplicação. Seja bem-vindo à nossa jornada de aprendizado e desenvolvimento.
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Visão Geral do Projeto
+Tecnologias Principais: Utilizamos o framework Nest.js para criar uma API robusta e o PostgreSQL como nosso banco de dados.
+Frontend: Este backend serve como a base para nosso frontend em Vue.js, criando uma aplicação completa de gestão financeira.
+Objetivo
+Nosso principal objetivo com este projeto é aprofundar nossos conhecimentos em Nest.js e desenvolver uma API sólida para nossa aplicação de gestão financeira. Acreditamos na importância de uma estrutura bem organizada e de rotas eficientes para oferecer uma experiência de usuário excelente.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+Aprendizado Contínuo
+Ao desenvolver o backend deste projeto, optamos por escrever o máximo possível de código por conta própria, em vez de recorrer a soluções prontas. Isso nos permitiu explorar em profundidade os conceitos do Nest.js e criar uma base sólida para nosso frontend.
 
-## Description
+Contribuições
+Estamos abertos a contribuições da comunidade para aprimorar ainda mais nosso backend. Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para criar uma pull request ou reportar um problema na seção de issues.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Este backend é parte integrante de nossa aplicação de gestão financeira, e juntos, podemos torná-lo ainda mais poderoso e eficiente.
 
-## Installation
+Obrigado por se juntar a nós nesta jornada de desenvolvimento! Se você deseja saber mais sobre o frontend que complementa este backend, consulte o repositório correspondente.
 
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+Divirta-se explorando nosso projeto!
