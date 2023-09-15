@@ -6,7 +6,7 @@ Bem-vindo ao projeto do backend de nossa aplicação de gestão financeira em Ne
 
 - **Tecnologias Principais**: Utilizamos o framework Nest.js para criar uma API robusta e o PostgreSQL como nosso banco de dados.
 - **Frontend**: Este backend serve como a base para nosso frontend em Vue.js, criando uma aplicação completa de gestão financeira.
-- **Acesse a nossa API Financeira:** [Clique aqui](https://api-finance-4orb.onrender.com)
+- **Acesse a API criada no projeto:** [Clique aqui](https://api-finance-4orb.onrender.com)
 
 ## Objetivo
 
